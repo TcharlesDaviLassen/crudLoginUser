@@ -61,7 +61,7 @@ Após configurar o Spring Security dessa forma, ele estará habilitado em sua ap
 #
 #
 
-## Aqui está um exemplo completo de uma aplicação Spring Boot com Spring Security baseada na configuração fornecida:
+## Exemplo completo de uma aplicação Spring Boot com Spring Security:
 
 ### 1. Classe de configuração do Spring Security:
 
@@ -148,7 +148,7 @@ public class HomeController {
 ```
 Neste exemplo, definimos um controlador simples com quatro rotas: a página inicial ("/"), uma página pública ("/public"), uma página para administradores ("/admin") e a página de login ("/login").
 
-3. Páginas HTML (templates):
+### 3. Páginas HTML (templates):
 
 Crie os arquivos HTML correspondentes às páginas mencionadas no controlador:
 
