@@ -1,4 +1,4 @@
-## Aqui está um exemplo de código avançado em Spring Boot que cria uma tela completa de login, utiliza a anotação @SessionScope para gerenciar a sessão do usuário e utiliza o Hibernate para buscar o usuário no banco de dados:
+## Exemplo de código avançado em Spring Boot que cria uma tela completa de login, utiliza a anotação @SessionScope para gerenciar a sessão do usuário e utiliza o Hibernate para buscar o usuário no banco de dados:
 
 ### Crie uma entidade User que representa os dados do usuário:
 
